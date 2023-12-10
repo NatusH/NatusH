@@ -9,6 +9,3 @@ Visual Studio Code
 🌱 I'm Currently Learning
 More advanced ways of using Javascript, Node.js and React.
 
-📈 GitHub Stats
-[![Razvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RzvHgn)](https://github.com/anuraghazra/github-readme-stats)
-
